@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+{% if page.type != '' %}
+  <h1>
+    {{ page.type }} | {{ page.title }}
+  </h1>
+{% else %}
+  <h1>
+    {{ page.title }}
+  </h1>
+{% endif %}
+
+<span class="post-date">
+  {% include date.html date=page.date timezone=page.timezone location=page.location %}
+</span>
+
+{% assign image_prefix = page.image | slice: 0, 6 %}
+{% if image_prefix == "uploads" and site.baseurl_root != '' %}
+  <img src="{{ site.baseurl_root }}/{{ page.image }}">
+{% endif %}
+
+{{ content }}
+
+{% include epilogue.html %}
+
+{% include social-sharing.html %}
+
+{% include related-posts.html %}
