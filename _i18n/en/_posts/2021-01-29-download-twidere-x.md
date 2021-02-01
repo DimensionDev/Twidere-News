@@ -11,7 +11,7 @@ zh-Hant: []
 title: Get Twidere X
 location: Toyama,Japan
 type: ''
-image: "{{ site.baseurl_root }}/uploads/en.png"
+image: ''
 
 ---
 Twidere X is a next-generation cross-social platform client.  
