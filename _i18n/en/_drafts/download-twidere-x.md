@@ -11,7 +11,7 @@ zh-Hant: []
 title: Get Twidere X
 location: Toyama,Japan
 type: ''
-image: ''
+image: "{{ site.baseurl_root }}/uploads/en.png"
 
 ---
 Twidere X is a next-generation cross-social platform client.  
@@ -24,4 +24,4 @@ Provide support for api update and standardized display of the next generation s
 
 ![](https://vip2.loli.net/2021/02/01/ZOlIsbLDpMzfK9Q.png "Get it on github")
 
-For beta version ,latest news and feedback, Please join [telegram group](https://t.me/twidere_x) to get information.
+For beta version ,latest news and feedback, Please join [telegram group](https://t.me/twidere_x) to get more.
