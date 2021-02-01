@@ -18,10 +18,9 @@ Twidere X is a next-generation cross-social platform client.
 Newly developed based on Twidere's functions and using Twitter v2 api.  
 Provide support for api update and standardized display of the next generation social platform.
 
-!\[\](https://vip2.loli.net/2021/02/01/zdse9JfkgZCb5Uu.png =100x100 "Download on the App Store")
+![[](https://i.loli.net/2021/02/01/dw5LjsbXkfixCYg.png)](https://skr.moe）
+![](https://i.loli.net/2021/02/01/zCXUFWhVAGe452c.png)
 
-![](https://vip1.loli.net/2021/02/01/hrTMoBbCq76O8NK.png "Get it on Google Play")
-
-![](https://vip2.loli.net/2021/02/01/ZOlIsbLDpMzfK9Q.png "Get it on github")
+![](https://i.loli.net/2021/02/01/J4hk6LvQS25oP1w.png)
 
 For beta version ,latest news and feedback, Please join [telegram group](https://t.me/twidere_x) to get more.
