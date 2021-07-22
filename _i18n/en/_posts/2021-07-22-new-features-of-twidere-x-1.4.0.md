@@ -14,6 +14,7 @@ type: ''
 image: "{{ site.baseurl_root }}/uploads/popover-1.png"
 
 ---
+![popover.png](https://i.loli.net/2021/07/22/PrcyxGqwSeFHDTk.png)
 Since 1.3.0, there have been many improvements and updates made on Twidere X. And now, the latest version 1.4.0 has been released, it can be viewed in the Github and Google Play beta channels.
 
 Github 1.4.0 (https://github.com/TwidereProject/TwidereX-Android/releases/tag/1.4.0)
@@ -48,7 +49,7 @@ Enter the appropriate Nitter Instance in Settings-Misc to enable it, and it is a
 
 Here is a page (https://github.com/zedeus/nitter/wiki/Instances) of possible Nitter Instances, choose one of them and paste it to Settings-Misc to have a try.
 
-*Due to the limitation of Twitter API, some data might not be able to be fetched from Twitter, you can use a third-party data provider to provide this data. Twidere does not take any responsibility for them.
+\*Due to the limitation of Twitter API, some data might not be able to be fetched from Twitter, you can use a third-party data provider to provide this data. Twidere does not take any responsibility for them.
 
 **Twitter trends:**
 
@@ -87,6 +88,3 @@ This theme is very useful for devices using AMOLED screens, I believe you will l
 * Upgrade Jetpack Compose to RC01
 
 The official version to 1.4.0 is available now, including [F-Droid](https://f-droid.org/zh_Hans/packages/com.twidere.twiderex/), [Github](https://github.com/TwidereProject/TwidereX-Android/releases) and [Google Play](https://play.google.com/store/apps/details?id=com.twidere.twiderex). Enjoy Twidere X 1.4.0 for Android !
-
-
-
