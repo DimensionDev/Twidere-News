@@ -11,7 +11,7 @@ zh-Hant: []
 title: New features of Twidere X 1.4.0
 location: Toyama,Japan
 type: ''
-image: "{{ site.baseurl_root }}/uploads/popover.png"
+image: "{{ site.baseurl_root }}/uploads/popover-1.png"
 
 ---
 Since 1.3.0, there have been many improvements and updates made on Twidere X. And now, the latest version 1.4.0 has been released, it can be viewed in the Github and Google Play beta channels.
