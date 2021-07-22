@@ -15,6 +15,7 @@ image: "{{ site.baseurl_root }}/uploads/popover-1.png"
 
 ---
 ![popover.png](https://i.loli.net/2021/07/22/PrcyxGqwSeFHDTk.png)
+
 Since 1.3.0, there have been many improvements and updates made on Twidere X. And now, the latest version 1.4.0 has been released, it can be viewed in the Github and Google Play beta channels.
 
 Github 1.4.0 (https://github.com/TwidereProject/TwidereX-Android/releases/tag/1.4.0)
