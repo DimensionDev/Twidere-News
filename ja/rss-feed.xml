@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>News</title>
+		<description>Fun Free Open Source</description>
+		<link>/ja</link>
+		<atom:link href="/jarss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>How to unfuck Web2? And why decentralized social networks are inevitable.</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;https://vip2.loli.io/2022/04/26/OiNWlnze3ZJfT6a.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+				<link>/ja20220425news</link>
+				<guid isPermaLink="true">/ja20220425news</guid>
+			</item>
+		
+	</channel>
+</rss>

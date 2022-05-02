@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>News</title>
+		<description>Fun Free Open Source</description>
+		<link></link>
+		<atom:link href="rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>New features of Twidere X 1.4.0</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2021/07/22/PrcyxGqwSeFHDTk.png&quot; alt=&quot;popover.png&quot; /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
+				<link>20210722new-features-of-twidere-x-1.4.0</link>
+				<guid isPermaLink="true">20210722new-features-of-twidere-x-1.4.0</guid>
+			</item>
+		
+			<item>
+				<title>Get Twidere X</title>
+				
+				
+					<description>&lt;p&gt;Twidere X is a next-generation cross-social platform client.&lt;br /&gt;
+Newly developed based on Twidere’s functions and using Twitter v2 api.&lt;br /&gt;
+Provide support for api update and standardized display of the next generation social platform.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+				<link>20210129get-twidere-x</link>
+				<guid isPermaLink="true">20210129get-twidere-x</guid>
+			</item>
+		
+			<item>
+				<title>Get Twidere X</title>
+				
+				
+					<description>&lt;p&gt;Twidere X is a next-generation cross-social platform client.&lt;br /&gt;
+Newly developed based on Twidere’s functions and using Twitter v2 api.&lt;br /&gt;
+Provide support for api update and standardized display of the next generation social platform.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+				<link>20210128get-twidere-x</link>
+				<guid isPermaLink="true">20210128get-twidere-x</guid>
+			</item>
+		
+	</channel>
+</rss>
